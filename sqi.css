@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+div{
+    position: absolute;
+    background-color: wheat;
+    height: 60vh;
+    width: 400px;
+    left: 20px;
+    top: 130px;
+    box-shadow: 0 0 85px;
+}
+
+.a{
+    position: absolute;
+    top: 20px;
+    left: 160px;
+}
+input{
+    position: relative;
+    top: 80px;
+    left: 110px;
+}
+button{
+    position: relative;
+    top: 120px;
+    left: 120px;
+    border: none;
+   padding: 20px 40px 20px 40px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    
+    
+}
